@@ -1,0 +1,6 @@
+[submodule "hwangGoo-backend"]
+	path = hwangGoo-backend
+	url = https://github.com/HwangGooTeam/hwangGoo-backend.git
+[submodule "hwangGoo-frontend"]
+	path = hwangGoo-frontend
+	url = https://github.com/HwangGooTeam/hwangGoo-frontend.git
